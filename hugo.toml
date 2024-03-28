@@ -1,0 +1,4 @@
+baseURL = 'https://snazzy-queijadas-6b75f1.netlify.app/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'congo-2.8.1'
