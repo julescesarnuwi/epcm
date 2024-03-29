@@ -2,5 +2,6 @@
 publish = "public"
 command = "hugo"
 
+[context.production.environment]
 HUGO_VERSION = "0.124.0"
 TZ = "Africa/Kigali"
