@@ -1,6 +1,6 @@
-HUGO_VERSION = "0.124.0"
-TZ = "Africa/Kigali"
-
 [build]
 publish = "public"
 command = "hugo"
+
+HUGO_VERSION = "0.124.0"
+TZ = "Africa/Kigali"
