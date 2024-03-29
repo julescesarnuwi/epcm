@@ -3,4 +3,4 @@ TZ = "Africa/Kigali"
 
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo"
